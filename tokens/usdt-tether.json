@@ -1,0 +1,21 @@
+{
+  "name": "USD Tether Token List",
+  "logoURI": "https://tetherusdt.org/logo.png",
+  "timestamp": 1707072000000,
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "TJqTXEbP7W7qGA9ZHkwJbEinzcjarVQfs9",
+      "name": "Usd Tether",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://tetherusdt.org/usdt-logo.png"
+     
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
