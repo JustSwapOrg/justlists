@@ -1,0 +1,20 @@
+{
+    "name": "JustSwap USD Tether List",
+    "tokens": [
+        {
+            "symbol": "USDT",
+            "address": "TJqTXEbP7W7qGA9ZHkwJbEinzcjarVQfs9",
+            "chainId": 1,
+            "decimals": 6,
+            "name": "Usd Tether",
+            "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png"
+        }
+    ],
+    "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png",
+    "version": {
+        "patch": 1,
+        "major": 1,
+        "minor": 0
+    },
+    "timestamp": 1707072000000
+}
