@@ -10,15 +10,7 @@
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://tetherusdt.org/usdt-logo.png"
-       "website": "https://tetherusdt.org/",
-       "email": "info@tetherusdt.org",
-       "description": "USD Tether is a stablecoin that is pegged to the US Dollar.",
-       "social": {
-       "telegram": "https://t.me/tether",
-       "twitter": "https://twitter.com/tether_to"
-  },
-  "totalSupply": "10000000000000000000000000000000000000000000000000000",
-  "issuer": "TSoQxvGZPVZtZQ6zMirqoac1VvtGD5o3jy"
+     
     }
   ],
   "version": {
