@@ -1,16 +1,29 @@
 {
-  "name": "Usd Tether",
-  "symbol": "USDT",
-  "address": "TJqTXEbP7W7qGA9ZHkwJbEinzcjarVQfs9",
-  "chainId": 1,
-  "decimals": 6,
-  "website": "https://tetherusdt.org/",
-  "email": "info@tetherusdt.org",
-  "description": "USD Tether is a stablecoin that is pegged to the US Dollar.",
-  "social": {
-    "telegram": "https://t.me/tether",
-    "twitter": "https://twitter.com/tether_to"
+  "name": "USD Tether Token List",
+  "logoURI": "https://tetherusdt.org/logo.png",
+  "timestamp": 1707072000000,
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "TJqTXEbP7W7qGA9ZHkwJbEinzcjarVQfs9",
+      "name": "Usd Tether",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://tetherusdt.org/usdt-logo.png"
+       "website": "https://tetherusdt.org/",
+       "email": "info@tetherusdt.org",
+       "description": "USD Tether is a stablecoin that is pegged to the US Dollar.",
+       "social": {
+       "telegram": "https://t.me/tether",
+       "twitter": "https://twitter.com/tether_to"
   },
   "totalSupply": "10000000000000000000000000000000000000000000000000000",
   "issuer": "TSoQxvGZPVZtZQ6zMirqoac1VvtGD5o3jy"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
 }
